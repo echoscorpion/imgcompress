@@ -1,0 +1,45 @@
+.forminput {
+
+    border-color:#858585!important;
+    height: 150px!important;
+    max-width: 650px!important;
+    padding: 0 50px!important;
+    margin-bottom: 3rem;
+
+    span {
+
+        font-size: 15px!important;
+    }
+
+    svg {
+
+        height: 160px;
+        width: 95px;
+
+        path{
+            fill:#666;
+        }
+    }
+
+}
+
+.compressionBody {
+
+    h1 {
+
+        font-size: 65px;
+        text-transform: capitalize;
+        color: #bcbcbc;
+    }
+
+    .desc {
+
+        font-family: Arial, Helvetica, sans-serif!important;
+        max-width: 490px;
+        font-weight: 300;
+        font-size: 25px;
+        margin: 40px auto 60px;
+        color: #bcbcbc;
+
+    }
+}
